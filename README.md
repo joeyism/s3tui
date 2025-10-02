@@ -15,7 +15,7 @@ A Terminal User Interface (TUI) for AWS S3 with ranger-style navigation.
 
 ## Installation
 
-### From PyPI (once published)
+### From PyPI
 
 ```bash
 pip install s3tui
